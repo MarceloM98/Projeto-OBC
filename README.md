@@ -2,7 +2,7 @@
 
 ![preview]()
 
-> Trilha Explorer
+> CSS moderno
 
 Projeto construído no curso CSS moderno da One Bit Code
 
