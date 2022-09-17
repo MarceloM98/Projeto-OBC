@@ -2,6 +2,8 @@
 
 ![preview](.github/preview.png)
 
+> CSS moderno
+
 Projeto construído no curso CSS moderno da One Bit Code
 
 [Clique aqui para acessar](https://marcelom98.github.io/Projeto-OBC/)
